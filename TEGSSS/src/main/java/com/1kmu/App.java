@@ -1,4 +1,4 @@
-package com.1kmu;
+package com.kmu;
 
 /**
  * Hello world!
