@@ -1,4 +1,4 @@
-package com.1kmu;
+package com.kmu;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
